@@ -5,13 +5,15 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+    <!-- 项目属性 -->
     <groupId>cn.sinlmao.commons</groupId>
     <artifactId>dubbo-helper</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>Sinlmao Commons Dubbo Helper</name>
     <description>Sinlmao Commons Dubbo Helper</description>
     <url>https://github.com/sinlmao/Dubbo-Helper</url>
 
+    <!-- 属性配置 -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -58,6 +60,13 @@
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.16</version>
+        </dependency>
+
+        <!-- network -->
+        <dependency>
+            <groupId>cn.sinlmao.commons</groupId>
+            <artifactId>network</artifactId>
+            <version>1.2.1</version>
         </dependency>
     </dependencies>
 
