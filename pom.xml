@@ -8,7 +8,7 @@
     <!-- 项目属性 -->
     <groupId>cn.sinlmao.commons</groupId>
     <artifactId>dubbo-helper</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>Sinlmao Commons Dubbo Helper</name>
     <description>Sinlmao Commons Dubbo Helper</description>
     <url>https://github.com/sinlmao/Dubbo-Helper</url>
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>cn.sinlmao.commons</groupId>
             <artifactId>network</artifactId>
-            <version>1.2.1</version>
+            <version>1.4.5</version>
         </dependency>
     </dependencies>
 
